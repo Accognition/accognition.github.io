@@ -9,10 +9,6 @@
 - [Note 003 — Automating Research](notes/note-003-automating-research.md)
 - [Note 004 — Categorical Semantics](notes/note-004-categorical-semantics.md)
 
-### Miscellaneous
-
-- [Prior Formulation of the Research-Space Idea](miscellaneous/prior-formulation-research-space.md)
-
 ## Status
 
 The material in this repository is exploratory and should be read as evolving research notes rather than as established results.
