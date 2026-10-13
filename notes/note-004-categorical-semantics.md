@@ -193,7 +193,7 @@ I want to avoid choosing a broad formal language before knowing what distinction
 
 ## 10. Questions for later notes
 
-Which operator families can be represented cleanly by a small category of constructions? Where is a typed schema with explicit assumptions sufficient? When does a sound approximation help more than an exact correspondence?
+Which operator families can be represented cleanly by a small category of constructions? Where is a typed schema with explicit assumptions sufficient? When does a sound approximation help more than an exact correspondence? How should the categorical model and its interpretations evolve when constructions are learned, composed, or invented? A new generator needs an interpretation, while a newly imposed equation must hold under every interpretation of the revised model. [Note 006 — Discovering Transformations](note-006-discovering-transformations.md) considers this change to the repertoire.
 
 How should an abstraction learner propose a structural core, and how should a separate interpretation procedure test its domain realizations? Can observations and failed compositions help revise the core?
 
@@ -201,4 +201,4 @@ These questions continue the same notebook project. The formal examples provide 
 
 References: [shared reading list](../references.md).
 
-Previous: [Note 003 — Automating Research](note-003-automating-research.md).
+Previous: [Note 003 — Automating Research](note-003-automating-research.md). Next: [Note 005 — Knowledge Gaps and Reachability](note-005-knowledge-gaps-and-reachability.md).

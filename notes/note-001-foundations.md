@@ -2,7 +2,7 @@
 
 *Evolving note*
 
-The question behind Accognition is whether a solved problem can suggest a structural transformation that becomes useful under another domain interpretation. I want to explore how to describe that transformation, how to separate it from its original context, and how to use its input and output structures to ask further questions.
+The question behind Accognition is whether a solved problem can suggest a structural transformation that becomes useful under another domain interpretation. I see two connected aims: realize possibilities already reachable through a repertoire of transformations, and investigate transformations that could enlarge that repertoire. I want to explore how to describe a transformation, how to separate it from its original context, and how to use its input and output structures to ask further questions. [Note 005 — Knowledge Gaps and Reachability](note-005-knowledge-gaps-and-reachability.md) and [Note 006 — Discovering Transformations](note-006-discovering-transformations.md) develop these aims.
 
 This note introduces working vocabulary. The definitions may change as the examples become more precise.
 

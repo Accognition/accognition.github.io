@@ -50,7 +50,7 @@ A useful record would contain the source, the proposed schema, the target interp
 
 ## 4. Gaps in a collection
 
-An operator–domain table can help organize exploration. This is a schematic example:
+An operator–domain table can help organize exploration. [Note 005 — Knowledge Gaps and Reachability](note-005-knowledge-gaps-and-reachability.md) develops the distinction between an empty cell in a collection and a genuinely valid, useful opportunity. This is a schematic example:
 
 | Operator | Domain $D_1$ | Domain $D_2$ | Domain $D_3$ |
 | --- | --- | --- | --- |
@@ -173,7 +173,7 @@ State expansion therefore suggests a neighboring aggregation question, and the c
 
 ## 10. Revising the collection
 
-Comparing related constructions may reveal a useful suboperator, a repeated composition, or a distinction between families previously grouped together.
+Comparing related constructions may reveal a useful suboperator, a repeated composition, or a distinction between families previously grouped together. [Note 006 — Discovering Transformations](note-006-discovering-transformations.md) considers how such evidence could lead to a candidate transformation and a revision of the collection.
 
 Let $\mathcal L_t$ be the active operator collection, $\mathcal E_t$ newly examined evidence, and $\mathcal H_t$ the archive of investigations. A possible bookkeeping rule is
 
