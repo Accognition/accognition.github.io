@@ -2,6 +2,16 @@
 
 ## Notes on Computational Scientific Discovery
 
+*Different fields. Shared structure. New solutions.*
+
+A problem in one field may have a solution in another—hidden behind different terminology, notation, and interpretations. Accognition explores how to uncover these connections across different levels of abstraction and turn them into a systematic method of discovery.
+
+The starting point is shared mathematical structure. The ambition is to go further: decompose problems, compose existing methods into new solutions, and use each successful transfer to guide the next research question. Category theory is explored as a possible language for making these relationships explicit.
+
+**How far can we advance knowledge by discovering what our existing solutions can become?**
+
+These evolving research notes investigate that question.
+
 ### Notes
 
 - [Note 001 — Foundations](notes/note-001-foundations.md)
