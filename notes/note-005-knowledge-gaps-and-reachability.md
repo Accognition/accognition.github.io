@@ -15,11 +15,14 @@ $$
 
 This is the closure of $K$ under finite, well-typed applications and compositions of operators in $\mathcal O$, including zero-step reachability of the original material. It contains constructions that may not yet have been recorded as explicit applications. Reachability is a formal possibility under the selected model; it does not mean that someone has recognized, checked, or found a useful interpretation.
 
+Reachability must also be preservation-aware. An operator is not justified merely because its input and output types match: the derivation has to identify the observation, construction, or conclusion that is intended to survive and check the corresponding contract. A transfer that preserves one observation may discard information required by another.
+
 The notation is representation-relative. A concrete account has to specify:
 
 - a representation language $\mathcal L$, including which objects, relations, operator contracts, and compositions it can express;
 - the admissible interpretations of those representations in target domains;
 - the conditions under which an operator may be applied and the observations its contract preserves;
+- the intended observation or result, together with the exact, directional, or approximate preservation contract;
 - resource limits, such as a bound on derivation length, computation, memory, or source inspection.
 
 For example, a resource-bounded envelope can be written $\mathcal R_{\mathcal O}^{B,\mathcal L}(K)$, where $B$ gives the chosen limits. An operator with a matching type but an unmet applicability condition does not extend the envelope. If a proposed transfer has not established its contract, it is a lead to check, not a verified member of the reachable set.
@@ -56,9 +59,11 @@ The two views can inform one another. A gap in the table can suggest a reachable
 
 One possible record for a reachability lead would include its derivation from $K$, the operators and parameters used, the target interpretation, the contract checks, the resource budget, and the unresolved usefulness or novelty questions. This keeps a derivation inspectable without equating derivability with discovery.
 
+For transfers that change representation, the record should additionally identify the structural core being reused, the result it supports, and a nearby failure case showing what the correspondence does not preserve. This makes the boundary of the reachable claim explicit. It also lets later operators test whether their own preconditions are met instead of treating every output of an earlier operator as interchangeable.
+
 ## 5. Questions for later notes
 
-How should the representation language decide which derivations count as the same construction? Which resource limits make comparisons meaningful? How can an investigation estimate what has been explored beyond its own collection? What evidence would distinguish an unrecorded but routine application from a useful new connection?
+How should the representation language decide which derivations count as the same construction? Which resource limits make comparisons meaningful? How can an investigation estimate what has been explored beyond its own collection? What evidence would distinguish an unrecorded but routine application from a useful new connection? How should a reachability record capture a counterexample when a representation preserves one observation but fails for another?
 
 Note 006 turns to the complementary question: how could the repertoire itself acquire a new transformation?
 

@@ -11,6 +11,7 @@
 - [Note 005 — Knowledge Gaps and Reachability](notes/note-005-knowledge-gaps-and-reachability.md)
 - [Note 006 — Discovering Transformations](notes/note-006-discovering-transformations.md)
 - [Note 007 — A Complete Discovery Cycle](notes/note-007-complete-discovery-cycle.md)
+- [Note 009 — Transfer Through Preserved Structure](notes/note-009-transfer-through-preserved-structure.md)
 
 ## Status
 

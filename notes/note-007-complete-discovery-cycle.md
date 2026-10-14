@@ -108,4 +108,4 @@ The intended feedback process is: **applications produce evidence; evidence sugg
 
 References: [shared reading list](../references.md).
 
-Previous: [Note 006 — Discovering Transformations](note-006-discovering-transformations.md).
+Previous: [Note 006 — Discovering Transformations](note-006-discovering-transformations.md). Next: [Note 009 — Transfer Through Preserved Structure](note-009-transfer-through-preserved-structure.md).
