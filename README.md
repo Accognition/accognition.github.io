@@ -1,7 +1,5 @@
 # Accognition
 
-[accognition.github.io](https://accognition.github.io)
-
 ## Notes on Computational Scientific Discovery
 
 *Different fields. Shared structure. New solutions.*
@@ -13,6 +11,9 @@ The starting point is shared mathematical structure. The ambition is to go furth
 **How far can we advance knowledge by discovering what our existing solutions can become?**
 
 These evolving research notes investigate that question.
+
+
+[accognition.github.io](https://accognition.github.io)
 
 ### Notes
 
